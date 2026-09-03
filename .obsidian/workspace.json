@@ -39,17 +39,14 @@
             "id": "31de196195aed57d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day 3 Of AI-ML Roadmap.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Day 3 Of AI-ML Roadmap"
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,7 +183,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Course/Day 2 of AI-ML Roadmap.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -213,11 +209,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "6b272685120d772b",
+  "active": "31de196195aed57d",
   "lastOpenFiles": [
+    "Python Course/Day 2 of AI-ML Roadmap.md",
     "Python Basic Installation/Day 1 of AI-ML Roadmap.md",
     "Day 3 Of AI-ML Roadmap.md",
-    "Python Course/Day 2 of AI-ML Roadmap.md",
     "Untitled.base",
     "Python Course",
     "Python Basic Installation",
