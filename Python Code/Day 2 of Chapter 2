@@ -1,0 +1,16 @@
+Learned about assignments 
+x = 3.5 * x +(2-x) this will assign the value of x in right side first and then only assign to left x 
+variable name should be clear so that other developers can read it easily 
+4.Expression
+a. Numeric Expression
+i. +,-,*,/,%
+
+5. Types (int,float,string,boolean)
+we can access it by wtingin like this 
+type(variable_name);
+
+6. type conversion
+<!-- we can convert one type to another type  -->
+7. User Input
+nam = input('Who are you? ')
+print('Welcome', nam)
